@@ -1,5 +1,7 @@
 import json
 
+processing = True
+
 dange_level = {}
 
 all_event = {}
